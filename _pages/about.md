@@ -5,13 +5,6 @@ excerpt: "PhD Candidate at Zhejiang University & Westlake University | Researchi
 author_profile: true
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 ## About Me
 
@@ -19,7 +12,7 @@ author_profile: true
 
 I am Minjun Zhu (朱敏郡), a Ph.D. candidate at Zhejiang University and Westlake University. I am fortunate to be advised by Professor [Yue Zhang](https://frcchang.github.io/) at the [Natural Language Processing Lab, Westlake University](https://www.westlake.edu.cn/faculty/nlp/yue-zhang.html). My academic journey includes a Master's degree from the Institute of Automation, Chinese Academy of Sciences (CASIA), and a Bachelor's degree from Beijing Normal University.
 
-My research is centered on the **fine-grained alignment of large language models (LLMs)** and **automated scientific discovery** with a total citation: <a href='https://scholar.google.cz/citations?hl=zh-CN&user=cm2ub2kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I am driven to build AI systems that not only deeply comprehend and adapt to nuanced human preferences but also autonomously advance the frontiers of scientific research. My work strives to enhance the controllability, reliability, and collaborative potential of LLMs in complex reasoning and knowledge generation.
+My research is centered on the **fine-grained alignment of large language models (LLMs)** and **automated scientific discovery**. I am driven to build AI systems that not only deeply comprehend and adapt to nuanced human preferences but also autonomously advance the frontiers of scientific research. My work strives to enhance the controllability, reliability, and collaborative potential of LLMs in complex reasoning and knowledge generation.
 
 **Contact:** `zhuminjun[at]westlake[dot]edu[dot]cn`
 
