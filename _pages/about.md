@@ -97,4 +97,7 @@ My research is centered on the **fine-grained alignment of large language models
 - **First Prize**, 2021 AI Academic League.
 - **First Prize**, iFlyTek 2022 Low-Resource Multilingual Text Translation Challenge 2.0.
 - **First Prize**, iFlyTek 2022 Machine Translation Quality Assessment Challenge.
+
+## Invited Talks
+- ICLR 2025 AI Co-scientist Discussion
 ---
