@@ -8,8 +8,6 @@ author_profile: true
 <span class='anchor' id='about-me'></span>
 ## About Me
 
-**(Photo: Please ensure your profile picture is configured, e.g., in `_config.yml` or add it here if preferred.)**
-
 I am Minjun Zhu (朱敏郡), a Ph.D. candidate at Zhejiang University and Westlake University. I am fortunate to be advised by Professor [Yue Zhang](https://frcchang.github.io/) at the [Natural Language Processing Lab, Westlake University](https://www.westlake.edu.cn/faculty/nlp/yue-zhang.html). My academic journey includes a Master's degree from the Institute of Automation, Chinese Academy of Sciences (CASIA), and a Bachelor's degree from Beijing Normal University.
 
 My research is centered on the **fine-grained alignment of large language models (LLMs)** and **automated scientific discovery**. I am driven to build AI systems that not only deeply comprehend and adapt to nuanced human preferences but also autonomously advance the frontiers of scientific research. My work strives to enhance the controllability, reliability, and collaborative potential of LLMs in complex reasoning and knowledge generation.
